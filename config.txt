@@ -1,0 +1,6 @@
+owner=535564628982497290
+prefix=4
+game=Galaxy | 4play
+stayinchannel=true
+songinstatus=false
+token=NTgxMjcxNTY0MDgzNzg5ODYw.XOc1dQ.QRmknEFfG7TEWOD-EIE-pkSCv34
